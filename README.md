@@ -1,4 +1,5 @@
-![Address-Book App Screenshot](https://github.com/scott198989/Address-Book/blob/main/Address-Book-Screenshot.png)
+![Address-Book App Screenshot](https://github.com/scott198989/Address-Book/blob/main/Addressbook-screenshot.png)
+
 
 # Address-Book App 📖
 
