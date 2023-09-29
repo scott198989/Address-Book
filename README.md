@@ -1,51 +1,72 @@
-# Address-Book App
+![Address-Book App Screenshot](https://github.com/scott198989/Address-Book/blob/main/Address-Book-Screenshot.png)
 
-# Introduction:
+# Address-Book App 📖
 
-I am currently taking classes on Udemy to expand my knowledge on backend frameworks like Ruby on Rails.  This project stores a list of ten cities and their area codes.  The user can requst a city, and the area code will be provided.  If the user enters a city that is not in the "database", a error message will appear and the user can try again.  
+## Table of Contents
 
-# Features
+- [Introduction](#introduction)
+- [Features](#features)
+- [Dependencies](#dependencies)
+- [How to Use](#how-to-use)
+- [Contact](#contact)
 
-A simple address book app written in Ruby.  This is for practice purposes only, and commands need to be ran in the command terminal.
+## Introduction 🌐
 
-# Dependencies / Ruby Version
+I'm currently honing my backend skills through Udemy courses, focusing on Ruby and Ruby on Rails. This project serves as a practice tool that stores a list of ten cities along with their corresponding area codes. Type in the city, and voila! You get the area code.
 
-Ruby 2.7.4
+---
 
-If using homebrew and bundler:
+## Features 🌟
 
-* brew update
-* brew install ruby
+- **Terminal-based Interaction**: Run the app straight from your terminal.
+- **City-Area Code Lookup**: Pre-loaded with ten cities and their area codes.
+- **Error Handling**: If you enter a city not in the database, the app lets you know and gives you another try.
 
-# Cities
+---
 
-* nashville
-* norfolk
-* cincinnati
-* neworleans
-* louisville
-* boston
-* newyork
-* edison
-* miami
-* orlando
+## Dependencies 🛠
 
-# Area Codes
+- Ruby version 2.7.4
 
-* 615
-* 757
-* 859
-* 504
-* 502
-* 617
-* 212
-* 908
-* 305
-* 407
+```bash
+# If Ruby's not yet on your system, use these commands
+brew update
+brew install ruby
+```
 
-# Contact
+---
 
-Thank you for checking out my first major class project! If you would like to connect on linkedin you can do so by clicking my linkedin on my GitHub profile page, or if you would like to drop me a line, or check out some of the other projects I have done, you can do so by visiting my portfolio site at https://www.scott-tuschl.com
+## How to Use 🤔
 
-Thank you!
+**Cities**
+- nashville
+- norfolk
+- cincinnati
+- neworleans
+- louisville
+- boston
+- newyork
+- edison
+- miami
+- orlando
+
+**Area Codes**
+- 615
+- 757
+- 859
+- 504
+- 502
+- 617
+- 212
+- 908
+- 305
+- 407
+
+Navigate to the project directory in your terminal and run the program.
+
+---
+
+## Contact 💌
+
+Thanks for taking a look at my project! To connect or see more of my work, check out my [LinkedIn](https://www.linkedin.com/in/scott-tuschl) and my [portfolio](https://www.scott-tuschl.com).
 
